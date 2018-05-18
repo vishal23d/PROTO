@@ -1,7 +1,7 @@
 {
 	"tasks": [{
 			"taskId": "1",
-			"name": "Show task names next to Gantt chart bars"
+			"name": "showme task names next to Gantt chart bars"
 		},
 		{
 			"taskId": "2",
