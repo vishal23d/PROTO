@@ -1,6 +1,7 @@
 {
 	"tasks": [{
 			"taskId": "1",
+			"name": "showme task names next to Gantt chart bars"
 			"name": "Gantt chart bars"
 		},
 		{
@@ -9,7 +10,7 @@
 		},
 		{
 			"taskId": "3",
-			"name": "Dystems."
+			"name": "Define the relationship between resources and"
 		},
 		{
 			"taskId": "4",
